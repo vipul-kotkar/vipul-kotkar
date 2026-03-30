@@ -37,7 +37,7 @@ I'm that guy who finds joy in Analog Layout and thinks floorplanning is cooler t
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=linux,python,c,cpp,matlab" height="40" alt="Tech Icons" />
+    <img src="https://skillicons.dev/icons?i=linux,python,TCL,GVim,matlab" height="40" alt="Tech Icons" />
   </a>
   
   <img src="https://img.shields.io/badge/Cadence-Virtuoso-E31837?style=flat-square&logo=cadence&logoColor=white" height="40" alt="Cadence" />
