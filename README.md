@@ -13,7 +13,7 @@
 
 ## 💫 About Me:
 
-### Hey there! I'm Vipul Kotkar, a Senior IC Physical Design Engineer.
+### Hey there! I'm Vipul Kotkar, Analog Layout Engineer.
 
 You can find me buried under a pile of DRC/LVS logs 📚, sipping coffee ☕, and occasionally questioning ❓ parasitic capacitances.
 
